@@ -1,2 +1,2 @@
 # TodoList-native
-App developed to manage day today tasks
+App developed to manage day to day tasks
